@@ -1,5 +1,5 @@
 # Crane-hook-position-perception
 
-<video controls width="250">
-  <source src="/demo/O4_map.mp4" type="video/webm" />
-</video>
+[![IMAGE ALT TEXT HERE](misc/screenshot.png)](https://www.youtube.com/watch?v=GG78CSlSHSA)
+
+
